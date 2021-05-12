@@ -26,10 +26,11 @@
   <h4>Easy Learning Section<h4>
   <img src="https://user-images.githubusercontent.com/81430894/117965174-16661600-b340-11eb-9913-7f2a8275a1e8.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/117993269-335d1200-b35d-11eb-8eaf-e962b9f51051.jpeg" height="500" width="250"/>
-  
+  <img src="https://user-images.githubusercontent.com/81430894/118025722-c8700300-b37d-11eb-9852-f88e7a704907.jpeg" height="500" width="250"/>
  
 
-  
+ 
+
   
   
   <br/>
