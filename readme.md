@@ -34,6 +34,14 @@
   <h1>Pdf Viewers SDK<h1>
 <img src="https://user-images.githubusercontent.com/81430894/118027644-c7d86c00-b37f-11eb-992c-943f627c82df.jpe" height="500" width="250"/>
 
+ 
+  <br/>
+  <h1>Article View / Auto Website Generator<h1>
+<img src="https://user-images.githubusercontent.com/81430894/118029160-82b53980-b381-11eb-9082-26d800905ed3.jpeg" height="500" width="250"/>
+ <img src="https://user-images.githubusercontent.com/81430894/118029204-92348280-b381-11eb-89ef-a7e365f6b039.jpeg" height="500" width="250"/>
+  <img src="https://user-images.githubusercontent.com/81430894/118029249-9cef1780-b381-11eb-99dd-cee73d7541af.jpeg" height="500" width="250"/>
+
+
   
   <br/>
   <h1><h1>
