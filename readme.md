@@ -13,6 +13,10 @@
 <img src="https://user-images.githubusercontent.com/81430894/117947370-c0887280-b32d-11eb-8040-0a1e32c9fa05.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/117952039-663de080-b332-11eb-8635-290084b81dd1.jpeg" height="500" width="250"/>
 
+  <br/>
+  <h4>News Section<h4>
+<img src="https://user-images.githubusercontent.com/81430894/117958390-97211400-b338-11eb-90ec-e8ca4a27d302.jpeg" height="500" width="250"/>
+
 
 
   <br/>
