@@ -22,8 +22,15 @@
 <img src="https://user-images.githubusercontent.com/81430894/117959401-9a68cf80-b339-11eb-9b18-270753a80f86.jpeg" height="500" width="250"/>
 
 <br/>
-  <h4>Previously Asked Questions<h4>
+<br/>
+  <h4>Easy Learning Section<h4>
+<img src="https://user-images.githubusercontent.com/81430894/117993269-335d1200-b35d-11eb-8eaf-e962b9f51051.jpeg" height="500" width="250"/>
+  
+ 
 
+  
+  
+  
   <br/>
   <h1><h1>
 <img src="" height="500" width="250"/>
