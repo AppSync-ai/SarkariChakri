@@ -39,7 +39,7 @@
 
  <br/>
   <h1>Pdf Viewers SDK<h1>
-<img src="https://user-images.githubusercontent.com/81430894/118027644-c7d86c00-b37f-11eb-992c-943f627c82df.jpe" height="500" width="250"/>
+<img src="https://user-images.githubusercontent.com/81430894/118027644-c7d86c00-b37f-11eb-992c-943f627c82df.jpeg" height="500" width="250"/>
 
  
   
