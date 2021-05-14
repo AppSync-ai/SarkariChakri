@@ -70,7 +70,7 @@
 
 
   <br/>
-  <h1 color=red>Test Section<h1>
+  <h1 style="color:blue;">Test Section<h1>
 <img src="" height="500" width="240"/>
 
   <br/>
