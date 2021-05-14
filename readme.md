@@ -44,8 +44,8 @@
 
  <br/>
   <h1>Notification Module<h1>
-<img src="https://user-images.githubusercontent.com/81430894/118220950-69ec7700-b49a-11eb-8f79-d2c1e623928d.jpeg" height="500" width="250"/>
- 
+<img src="https://user-images.githubusercontent.com/81430894/118221058-84beeb80-b49a-11eb-8aa9-6becd6c89094.jpeg" height="500" width="250"/>
+
 
   
   <br/>
