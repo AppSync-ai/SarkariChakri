@@ -70,13 +70,8 @@
 
 
   <br/>
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+<h1>Test Section</h1>
+-------------
 <img src="" height="500" width="240"/>
 
   <br/>
