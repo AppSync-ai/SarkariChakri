@@ -1,13 +1,8 @@
 #Sarkari Chakri
   <br/>
   <h1>Screenshots<h1>
- <div style="position: absolute">
 
-	<img style="position: absolute; margin-left: 19px; margin-top:15px"  src="https://user-images.githubusercontent.com/81430894/118157173-daae7780-b437-11eb-91a9-cc479c2eb7a9.jpeg" height="480" width="230"/>
-    
-    <img style="position: absolute" src="https://user-images.githubusercontent.com/81430894/118258602-b43b1b80-b4cd-11eb-984a-719dd31be5b4.png" height="520" width="270"/>
-    
-</div>
+<img src="https://user-images.githubusercontent.com/81430894/118157173-daae7780-b437-11eb-91a9-cc479c2eb7a9.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/117817940-bc087f00-b285-11eb-9349-cd60d92544fc.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/117820137-dd6a6a80-b287-11eb-9bdd-8c4607d98056.jpeg" height="500" width="240"/>  
 <img src="https://user-images.githubusercontent.com/81430894/117965174-16661600-b340-11eb-9913-7f2a8275a1e8.jpeg" height="500" width="240"/>
