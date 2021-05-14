@@ -71,7 +71,7 @@
 
   <br/>
   ```bash
-  <h1>Test Section<h1>
+  Test Section
   ```
 <img src="" height="500" width="240"/>
 
