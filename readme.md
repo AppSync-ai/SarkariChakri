@@ -48,7 +48,7 @@
 
   <br/>
   <h1>Dialy Booster<h1>
-<img src="https://user-images.githubusercontent.com/81430894/118225661-264a3b00-b4a3-11eb-9251-56285e3c2e94.jpeg" height="500" width="250"/>
+<img src="https://user-images.githubusercontent.com/81430894/118226571-dbc9be00-b4a4-11eb-89dc-3c46b87d681b.jpeg" height="500" width="250"/>
 <img src="https://user-images.githubusercontent.com/81430894/118225728-45e16380-b4a3-11eb-9728-ff20860b38b9.jpeg" height="500" width="250"/>
   <img src="https://user-images.githubusercontent.com/81430894/118225708-3c57fb80-b4a3-11eb-8f07-95d5b3434e43.jpeg" height="500" width="250"/>
 
@@ -56,6 +56,5 @@
   <br/>
   <h1><h1>
 <img src="" height="500" width="250"/>
-
 
 
