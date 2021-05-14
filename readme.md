@@ -71,7 +71,6 @@
 
   <br/>
 <h1>Test Section</h1>
--------------
 <img src="" height="500" width="240"/>
 
   <br/>
