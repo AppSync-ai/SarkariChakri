@@ -57,8 +57,6 @@
 <img src="https://user-images.githubusercontent.com/81430894/118256331-ff9ffa80-b4ca-11eb-99e2-cf650f13d1cd.jpeg" height="500" width="250"/>  
 
 
-![mobile](https://user-images.githubusercontent.com/81430894/118258602-b43b1b80-b4cd-11eb-984a-719dd31be5b4.png)
-
   
   <br/>
   <h1><h1>
