@@ -70,9 +70,13 @@
 
 
   <br/>
-  ```bash
-  Test Section
-  ```
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
 <img src="" height="500" width="240"/>
 
   <br/>
