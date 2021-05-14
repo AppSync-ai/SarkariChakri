@@ -56,6 +56,10 @@
 <img src="https://user-images.githubusercontent.com/81430894/118254493-ca92a880-b4c8-11eb-9020-1b8333bffc6b.jpeg" height="500" width="250"/>
 <img src="https://user-images.githubusercontent.com/81430894/118256331-ff9ffa80-b4ca-11eb-99e2-cf650f13d1cd.jpeg" height="500" width="250"/>  
 
+  <br/>
+  <h1>Important Updates<h1>
+<img src="https://user-images.githubusercontent.com/81430894/118277508-7b5b7080-b4e6-11eb-849c-9cafbe32e3f7.jpeg" height="500" width="250"/>
+
 
   <br/>
   <h1><h1>
