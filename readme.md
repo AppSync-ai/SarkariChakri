@@ -70,7 +70,9 @@
 
 
   <br/>
-  <h1 style="color:blue;">Test Section<h1>
+  ```bash
+  <h1>Test Section<h1>
+  ```
 <img src="" height="500" width="240"/>
 
   <br/>
