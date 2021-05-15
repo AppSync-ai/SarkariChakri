@@ -67,20 +67,11 @@
 <img src="https://user-images.githubusercontent.com/81430894/118317243-6a762380-b515-11eb-8fc5-411c3231776c.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118318686-5af7da00-b517-11eb-857f-f47bdd90759c.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118324185-4f101600-b51f-11eb-9a30-649fec5b33ae.jpeg" height="500" width="240"/> 
-
-
-  <br/>
-  <h1>Tests</h1>
-<img src="https://user-images.githubusercontent.com/81430894/118364579-a01f1900-b5b6-11eb-9b14-d12dc80eda72.jpeg" height="500" width="240"/>
-<img src="https://user-images.githubusercontent.com/81430894/118362856-1f105380-b5af-11eb-8988-f0a881dc00f4.jpeg" height="500" width="240"/>
-<img src="" height="500" width="240"/>
-
-
  
   <br/>
-  <h1>States GK<h1>
-<img src="https://user-images.githubusercontent.com/81430894/118316773-dd32cf00-b514-11eb-9086-9b6952edce76.jpeg" height="500" width="240"/>
-<img src="https://user-images.githubusercontent.com/81430894/118317243-6a762380-b515-11eb-8fc5-411c3231776c.jpeg" height="500" width="240"/>
+  <h1>Tests<h1>
+<img src="https://user-images.githubusercontent.com/81430894/118364579-a01f1900-b5b6-11eb-9b14-d12dc80eda72.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/118362856-1f105380-b5af-11eb-8988-f0a881dc00f4.jpeg" height="500" width="240"/>
 
   <br/>
   <h1><h1>
