@@ -77,8 +77,7 @@
 <img src="https://user-images.githubusercontent.com/81430894/118377291-fb1e3380-b5e9-11eb-9284-c50fcf934441.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118378215-cd3bed80-b5ef-11eb-8e64-06ab93de45b6.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118378047-94e7df80-b5ee-11eb-9288-86de73c886a0.jpeg" height="500" width="240"/>
-<img src="https://user-images.githubusercontent.com/81430894/118450100-78909380-b711-11eb-89c7-7874157041d3.mp4" height="500" width="240"/>  
-
+<img src="https://user-images.githubusercontent.com/81430894/118450280-a5dd4180-b711-11eb-9aef-4fd06591ebc7.gif" height="500" width="240"/>  
 
 
 
