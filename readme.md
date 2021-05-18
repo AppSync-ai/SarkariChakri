@@ -85,6 +85,11 @@
   <img src="https://user-images.githubusercontent.com/81430894/118454403-f3f44400-b715-11eb-862b-8efb0bcd96f7.jpeg" height="500" width="240"/>
  
 
+  <br/>
+  <h1>Other Updates<h1>
+<img src="https://user-images.githubusercontent.com/81430894/118620918-8f071f80-b7e3-11eb-9486-a64c042f2d1e.jpeg" height="500" width="240"/>
+
+
 
 
   <br/>
