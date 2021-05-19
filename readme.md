@@ -92,6 +92,9 @@
   <h1>Other Updates<h1>
 <img src="https://user-images.githubusercontent.com/81430894/118620918-8f071f80-b7e3-11eb-9486-a64c042f2d1e.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118625316-87e21080-b7e7-11eb-95e5-415d85d73d0a.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/118819631-25fed500-b8d3-11eb-8f8e-9f25ebc69742.jpeg" height="500" width="240"/>
+    
+  
 
 
   <br/>
