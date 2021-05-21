@@ -100,7 +100,7 @@
   <img src="https://user-images.githubusercontent.com/81430894/118988201-99b9e400-b99e-11eb-96a6-20f1dbe7949b.jpeg" height="500" width="240"/>
     
    
-<img src="https://user-images.githubusercontent.com/81430894/119104904-6f1d6900-ba3a-11eb-9af5-3fffb74e108d.jpeg" height="150" width="320"/>
+<img src="https://user-images.githubusercontent.com/81430894/119104904-6f1d6900-ba3a-11eb-9af5-3fffb74e108d.jpeg" height="180" width="320"/>
     
   
 
