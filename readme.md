@@ -107,6 +107,10 @@
   <h1>Blogs Updates<h1>  
     <img src="https://user-images.githubusercontent.com/81430894/119148718-65abf500-ba6a-11eb-96e6-72a9305d69cd.jpeg" height="500" width="240"/> 
 
+      <br/>
+  <h1>Videos<h1>  
+<img src="https://user-images.githubusercontent.com/81430894/119161250-b9bcd680-ba76-11eb-8666-9e5e8178696c.jpeg" height="500" width="240"/>    
+
 
 
   <br/>
