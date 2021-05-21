@@ -57,7 +57,7 @@
 <img src="https://user-images.githubusercontent.com/81430894/118256331-ff9ffa80-b4ca-11eb-99e2-cf650f13d1cd.jpeg" height="500" width="240"/>
 
   <br/>
-  <h1>Important Updates<h1>
+  <h1>Important Updates</h1>
 <img src="https://user-images.githubusercontent.com/81430894/118278157-4bf93380-b4e7-11eb-9d62-375014e6e47d.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118278059-266c2a00-b4e7-11eb-81e9-77c7891697e1.jpeg" height="500" width="240"/>
 
