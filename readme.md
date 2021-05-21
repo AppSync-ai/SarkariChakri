@@ -24,7 +24,7 @@
 
 <br/>
 <br/>
-  <h4>Easy Learning Section<h4>
+  <h4>Easy Learning Section</h4>
   <img src="https://user-images.githubusercontent.com/81430894/117965174-16661600-b340-11eb-9913-7f2a8275a1e8.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/117993269-335d1200-b35d-11eb-8eaf-e962b9f51051.jpeg" height="500" width="240"/>
   <img src="https://user-images.githubusercontent.com/81430894/118025722-c8700300-b37d-11eb-9852-f88e7a704907.jpeg" height="500" width="240"/>
@@ -62,14 +62,14 @@
 <img src="https://user-images.githubusercontent.com/81430894/118278059-266c2a00-b4e7-11eb-81e9-77c7891697e1.jpeg" height="500" width="240"/>
   
   <br/>
-  <h1>States GK<h1>
+  <h1>States GK</h1>
 <img src="https://user-images.githubusercontent.com/81430894/118316773-dd32cf00-b514-11eb-9086-9b6952edce76.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118317243-6a762380-b515-11eb-8fc5-411c3231776c.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118318686-5af7da00-b517-11eb-857f-f47bdd90759c.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118324185-4f101600-b51f-11eb-9a30-649fec5b33ae.jpeg" height="500" width="240"/> 
  
   <br/>
-  <h1>Tests<h1>
+  <h1>Tests</h1>
 <img src="https://user-images.githubusercontent.com/81430894/118364579-a01f1900-b5b6-11eb-9b14-d12dc80eda72.jpeg" height="500" width="240"/>
   <img src="https://user-images.githubusercontent.com/81430894/118375125-50a01380-b5dd-11eb-8bcc-312a8c59b762.jpeg" height="500" width="240"/>
   <img src="https://user-images.githubusercontent.com/81430894/118375272-724dca80-b5de-11eb-9b7f-8adb3a4e53f3.jpeg" height="500" width="240"/>
@@ -103,12 +103,12 @@
 <img src="https://user-images.githubusercontent.com/81430894/119107604-0388cb00-ba3d-11eb-8ee5-dbf3ab700318.jpeg" height="180" width="320"/>
 <img src="https://user-images.githubusercontent.com/81430894/119109357-b86fb780-ba3e-11eb-8a71-b0fdadfc0024.jpeg" height="500" width="240"/>    
 
-  <br/>
-  <h1>Blogs Updates</h1>  
-    <img src="https://user-images.githubusercontent.com/81430894/119148718-65abf500-ba6a-11eb-96e6-72a9305d69cd.jpeg" height="500" width="240"/> 
+<br/>
+<h1>Blogs Updates</h1>  
+<img src="https://user-images.githubusercontent.com/81430894/119148718-65abf500-ba6a-11eb-96e6-72a9305d69cd.jpeg" height="500" width="240"/> 
 
     
-  <h1>Videos</h1>  
+<h1>Videos</h1>  
 <img src="https://user-images.githubusercontent.com/81430894/119161250-b9bcd680-ba76-11eb-8666-9e5e8178696c.jpeg" height="500" width="240"/>    
 <img src="https://user-images.githubusercontent.com/81430894/119165763-7749c880-ba7b-11eb-90d9-5028b8adf696.jpeg" height="500" width="240"/>
 
