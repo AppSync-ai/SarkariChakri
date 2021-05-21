@@ -1,6 +1,6 @@
 #Sarkari Chakri
   <br/>
-  Screenshots
+  <h1>Screenshots<h1>
 
 <img src="https://user-images.githubusercontent.com/81430894/118157173-daae7780-b437-11eb-91a9-cc479c2eb7a9.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/117817940-bc087f00-b285-11eb-9349-cd60d92544fc.jpeg" height="500" width="240"/>
