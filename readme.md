@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/81430894/117952039-663de080-b332-11eb-8635-290084b81dd1.jpeg" height="500" width="240"/>
 
   <br/>
-  <h4>News Section<h4>
+  <h4>News Section</h4>
 <img src="https://user-images.githubusercontent.com/81430894/117958390-97211400-b338-11eb-90ec-e8ca4a27d302.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/117959401-9a68cf80-b339-11eb-9b18-270753a80f86.jpeg" height="500" width="240"/>
 
