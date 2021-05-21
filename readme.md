@@ -102,8 +102,10 @@
    
 <img src="https://user-images.githubusercontent.com/81430894/119107604-0388cb00-ba3d-11eb-8ee5-dbf3ab700318.jpeg" height="180" width="320"/>
 <img src="https://user-images.githubusercontent.com/81430894/119109357-b86fb780-ba3e-11eb-8a71-b0fdadfc0024.jpeg" height="500" width="240"/>    
- 
 
+  <br/>
+  <h1>Blogs Updates<h1>  
+    <img src="https://user-images.githubusercontent.com/81430894/119148718-65abf500-ba6a-11eb-96e6-72a9305d69cd.jpeg" height="500" width="240"/> 
 
 
 
