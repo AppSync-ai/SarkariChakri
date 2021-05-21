@@ -89,7 +89,7 @@
 
 
   <br/>
-  <h1>Other Updates<h1>
+  <h1>Other Updates</h1>
 <img src="https://user-images.githubusercontent.com/81430894/118620918-8f071f80-b7e3-11eb-9486-a64c042f2d1e.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118625316-87e21080-b7e7-11eb-95e5-415d85d73d0a.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/118819631-25fed500-b8d3-11eb-8f8e-9f25ebc69742.jpeg" height="500" width="240"/>
@@ -104,23 +104,23 @@
 <img src="https://user-images.githubusercontent.com/81430894/119109357-b86fb780-ba3e-11eb-8a71-b0fdadfc0024.jpeg" height="500" width="240"/>    
 
   <br/>
-  <h1>Blogs Updates<h1>  
+  <h1>Blogs Updates</h1>  
     <img src="https://user-images.githubusercontent.com/81430894/119148718-65abf500-ba6a-11eb-96e6-72a9305d69cd.jpeg" height="500" width="240"/> 
 
       <br/>
-  <h1>Videos<h1>  
+  <h1>Videos</h1>  
 <img src="https://user-images.githubusercontent.com/81430894/119161250-b9bcd680-ba76-11eb-8666-9e5e8178696c.jpeg" height="500" width="240"/>    
 
 
 
   <br/>
-  <h1><h1>
+  <h1></h1>
 <img src="" height="500" width="240"/>
 
 
 
   <br/>
-  <h1>App Url Debug / Test Mode (Under Development)<h1>
+  <h1>App Url Debug / Test Mode (Under Development)</h1>
     <h6>Last Updated : 19/05/2021</h6>
   https://drive.google.com/file/d/16lMWWgIN2Xkc8bicJqx2XBJOEVsw25pm/view?usp=sharing
   
