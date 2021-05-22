@@ -114,6 +114,12 @@
 <img src="https://user-images.githubusercontent.com/81430894/119165763-7749c880-ba7b-11eb-90d9-5028b8adf696.jpeg" height="500" width="240"/>
 
 
+      <br/>
+  <h4>Exam Target Section<h4>
+<img src="https://user-images.githubusercontent.com/81430894/119227983-4bd3e600-bb2e-11eb-8730-d6f9a19d3f9d.jpeg" height="500" width="240"/>    
+    
+  
+
 
   <br/>
   <h1></h1>
