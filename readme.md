@@ -130,7 +130,7 @@
 <img src="https://user-images.githubusercontent.com/81430894/119254206-a9ba0980-bbd2-11eb-9610-e687a3fe41ff.PNG"/>
    
 <br/>
-img src="https://user-images.githubusercontent.com/81430894/119472214-ac019c80-bd67-11eb-8006-73f1a141bbe8.jpeg" height="500" width="240"/>
+<img src="https://user-images.githubusercontent.com/81430894/119472214-ac019c80-bd67-11eb-8006-73f1a141bbe8.jpeg" height="500" width="240"/>
 
     
 
