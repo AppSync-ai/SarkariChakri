@@ -153,7 +153,10 @@
 <img src="https://user-images.githubusercontent.com/81430894/119981658-8250ab80-bfdb-11eb-8ba4-dcbc9ac7f1b8.jpeg" height="500" width="240"/>    
 <img src="https://user-images.githubusercontent.com/81430894/119983664-13288680-bfde-11eb-88c4-78f4e45b81b2.jpeg" height="500" width="240"/>
 <img src="https://user-images.githubusercontent.com/81430894/119986274-4587b300-bfe1-11eb-8e55-9a97506b0bea.jpeg" height="500" width="240"/>    
-    
+
+      <br/>
+  <h1>Previous Year Question papers</h1>
+<img src="https://user-images.githubusercontent.com/81430894/120335051-c9f27280-c30e-11eb-9ae9-951c9cdebe2c.jpeg" height="500" width="240"/>
 
     
   <br/>
